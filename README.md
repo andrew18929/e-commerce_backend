@@ -32,18 +32,30 @@ https://user-images.githubusercontent.com/87145391/139171113-70c2cd7f-8910-40f1-
 https://user-images.githubusercontent.com/87145391/139171289-d48df0c2-e0a2-460c-a2a3-d4eea69d13fa.mp4
 
 
-## Snapshot
-
 ## Installation
+Step 1 - Clone the github repo
 
-## Usage
+Step 2 - Enter your details in the EXAMPLE .env file and save as .env
+
+Step 3 - Right click the server.js file and Open in intergrated Terminal, and run npm i to install dependancies
+
+Step 4 - Enter mysql -u <username> -p in terminal (this will open sql shell)
+
+Step 5 - Enter your password
+
+Step 6 - Enter source db/schema.sql, once this has run enter quit to exit the shell
+
+Step 7 - Enter npm run seed to seed the test data into the database
+
+Step 8 - Enter npm start to open the server connection
+
+Step 9 - Open Insomnia Core and test all routes on localhost:3001 
 
 ## Issues
+If any issues please contact me through my GitHub account or through my email. Both GitHub account and Email are listed below.
 
 ## Contributes
 There are no contributing authors. If you would like to contribute please contact me through my GitHub account or through my email. Both GitHub account and Email are listed below.
-
-## Tests
 
 ## Questions
 If you have any questions or concerns, please contact me through my GitHub account or through my email. Both GitHub account and Email are listed below.
