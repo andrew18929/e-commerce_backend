@@ -1,14 +1,12 @@
 # e-commerce_backend
 
 ## Description
+This e-commerce app walks through the process of building the back end for an e-commerce site by modifying stater code. It demostrates the capabilities of sequelize and an express.js server
 
 ## Link to Video Walkthrough
-The walkthrough video demonstrating GET routes for all categories, all products, and all tags being tested in Insomnia Core.
-https://youtu.be/itopmq2Y-Q0
-The walkthrough video demonstrating GET routes for a single category, a single product, and a single tag being tested in Insomnia Core.
-https://youtu.be/cTJBwkZHp58
-The walkthrough video demonstrating POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
-https://youtu.be/xiyMTFRfpIc
+- The walkthrough video demonstrating GET routes for all categories, all products, and all tags being tested in Insomnia Core can be found at https://youtu.be/itopmq2Y-Q0
+- The walkthrough video demonstrating GET routes for a single category, a single product, and a single tag being tested in Insomnia Core can be found at https://youtu.be/cTJBwkZHp58
+- The walkthrough video demonstrating POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core can be found at https://youtu.be/xiyMTFRfpIc
 
 
 ## Table of Contents
@@ -25,6 +23,18 @@ https://youtu.be/xiyMTFRfpIc
 - [License](#license)
 
 ## GIF
+This walkthrough demonstrates how to create the schema from the MySQL shell, how to seed the database from the command line, and how to start the application's server.
+https://user-images.githubusercontent.com/87145391/139170653-e08ef5a4-b064-4df7-9efb-4733cf6cd1ff.mp4
+
+This walkthrough demonstrates the GET routes for all categories, all products, and all tags being tested in Insomnia Core.
+https://user-images.githubusercontent.com/87145391/139170988-8c76d62c-95eb-428b-9dbd-c164cdd25280.mp4
+
+This walkthrough demonstrates the GET routes for a single category, a single product, and a aingle tag being tested in Insomnia Core.
+https://user-images.githubusercontent.com/87145391/139171113-70c2cd7f-8910-40f1-8f70-8fd7b02afffe.mp4
+
+This walkthrough demonstrates the POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
+https://user-images.githubusercontent.com/87145391/139171289-d48df0c2-e0a2-460c-a2a3-d4eea69d13fa.mp4
+
 
 ## Snapshot
 
