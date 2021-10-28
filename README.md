@@ -23,7 +23,7 @@ This e-commerce app walks through the process of building the back end for an e-
 - [License](#license)
 
 ## GIF
-This walkthrough demonstrates how to create the schema from the MySQL shell, how to seed the database from the command line, and how to start the application's server.
+
 https://user-images.githubusercontent.com/87145391/139170653-e08ef5a4-b064-4df7-9efb-4733cf6cd1ff.mp4
 
 This walkthrough demonstrates the GET routes for all categories, all products, and all tags being tested in Insomnia Core.
